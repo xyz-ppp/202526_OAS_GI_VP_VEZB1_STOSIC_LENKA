@@ -1,0 +1,1 @@
+print("Azuriran pozdrav sa bekenda!")
