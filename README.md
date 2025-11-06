@@ -1,1 +1,1 @@
-# 202526_OAS_GI_VP_VEZB1_STOSIC_LENKA
+# Prva vezba iz Veb programiranja
