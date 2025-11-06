@@ -1,1 +1,1 @@
-print("Drugo azuriranje pozdrava sa bekenda!")
+print("Azuriran pozdrav sa bekenda!")
